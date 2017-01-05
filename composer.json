@@ -2,6 +2,7 @@
   "name": "cosmicdreams/fontawesome-iconpicker",
   "description": "Font Awesome Icon Picker plugin for Twitter Bootstrap",
   "version": "1.2.1",
+  "type": "drupal-library",
   "keywords": [
     "bootstrap",
     "fontawesome",

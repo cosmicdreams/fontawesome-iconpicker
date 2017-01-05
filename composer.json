@@ -1,5 +1,5 @@
 {
-  "name": "itsjavi/fontawesome-iconpicker",
+  "name": "cosmicdreams/fontawesome-iconpicker",
   "description": "Font Awesome Icon Picker plugin for Twitter Bootstrap",
   "version": "1.2.1",
   "keywords": [
@@ -13,7 +13,7 @@
   "minimum-stability": "stable",
   "repositories": [{
     "type": "vcs",
-    "url": "https://github.com/itsjavi/fontawesome-iconpicker"
+    "url": "https://github.com/cosmicdreams/fontawesome-iconpicker"
   }],
   "license": "MIT",
   "authors": [
